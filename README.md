@@ -1,1 +1,0 @@
-# whoami-nightwolfctf-writeup
